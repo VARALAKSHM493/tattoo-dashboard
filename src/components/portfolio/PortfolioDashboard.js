@@ -19,10 +19,10 @@ const PortfolioDashboard = () => {
   const [isEditing, setIsEditing] = useState(false);
 
   const categories = [
-    "Black & Grey",
+    "Black&Grey",
     "Traditional",
     "Realistic",
-    "Neo Traditional",
+    "Neo",
     "Artist 1", "Artist 2", "Artist 3","Popular",
   "New",
   ];
